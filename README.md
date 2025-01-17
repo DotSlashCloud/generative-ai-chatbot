@@ -15,3 +15,4 @@ This project aims to build a conversational AI chatbot to assist users with FAQs
 ## Goals
 - Create a user-friendly chatbot for customer support.
 - Demonstrate proficiency in generative AI technologies.
+  
